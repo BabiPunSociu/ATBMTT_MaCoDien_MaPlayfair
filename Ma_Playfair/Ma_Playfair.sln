@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ma_Playfair", "Ma_Playfair.pyproj", "{9F04ED6B-D51C-41A6-BD97-99B1E18D62A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F04ED6B-D51C-41A6-BD97-99B1E18D62A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F04ED6B-D51C-41A6-BD97-99B1E18D62A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E8569FB-5126-4BAE-BAD3-F005B7CE617D}
+	EndGlobalSection
+EndGlobal
